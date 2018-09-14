@@ -126,6 +126,7 @@
                     //CC timezone addition
                     i18n: {
                 		overrideTimezoneOffset: true
+                        //	timezoneOffset: -10 //This setting with the above line will define a specific timezone to render. Be sure to add a comma to the line above if you uncomment this
                 	  },
                 	  formatting: {
                 		  isEnabled: true
